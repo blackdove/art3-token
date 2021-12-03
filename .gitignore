@@ -2,3 +2,6 @@
 *.lock
 *.log
 node_modules
+cache
+artifacts
+src/types
